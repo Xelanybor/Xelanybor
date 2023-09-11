@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like making things, and sometimes they work.
+
 <!--
 **Microsoft-Excel/microsoft-excel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
