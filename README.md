@@ -6,7 +6,7 @@
 
 Hi! My name is Alex, and I am awful at introductions. I'm here to write bad code and make bad music, and I'm all out of bad music.
 
-I have a BSc in Pure Mathematics, and an Honours in Computer Science.
+I have a B.Sc in Pure Mathematics, and a B.Sc Honours in Computer Science.
 
 I'm driven by my curiosity, and work best when thrown into the deep end. I love working on anything that forces me to grow and learn new things.
 
